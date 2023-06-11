@@ -1,0 +1,107 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+
+
+header {
+    background-color: #6F6AF7;
+    color: #fff;
+    padding: 10px;
+    font-size: 20px;
+    height: 100px;
+  }
+  
+  .logo {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  }
+  
+  nav li {
+    display: inline;
+  }
+  
+  nav a {
+    display: inline-block;
+    padding: 10px;
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  nav a:hover {
+    background-color: #555;
+  }
+
+
+input{
+position: absolute;
+width: 219px;
+height: 33px;
+left: 1196px;
+top: 48px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 24.43px;
+line-height: 32px;
+border-radius: 10px ;
+}
+  
+
+/* .body{
+    background-color: white;
+    height: 900px;
+} */
+
+img{
+width: 456px;
+height: 507px;
+margin-top: 120px;
+}
+
+
+.box2{
+    height: 300px;
+    width: 350px;
+    background-color: #6F6AF7;
+    border:2px solid black;
+    margin-left: 900px;
+    margin-bottom: 1900px;
+}
+
+
+.box3{
+  width: 100px;
+  background-color: blue;
+  border: 2px solid black;
+  display: flex;
+}
+
+.box4{
+  width: 100px;
+  background-color: blue;
+  border: 2px solid black;
+}
+
+
+.box1{
+  width: 100px;
+  background-color: blue;
+  border: 2px solid black;
+}
+
+.box0{
+  width: 100px;
+  background-color: blue;
+  border: 2px solid black;
+  display: inline-block;
+}
